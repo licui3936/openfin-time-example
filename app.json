@@ -1,0 +1,19 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "OpenfinTimePOC",
+        "description": "OpenFin Time POC",
+        "url": "http://localhost:5000",
+        "uuid": "OpenfinTimePOC-j1yhbj63v1s",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "--debug=5858",
+        "version": "canary"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin Time POC",
+        "name": "Openfin Time POC"
+    }
+}
