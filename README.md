@@ -1,6 +1,6 @@
-# OpenFin examples: Notifications
+# OpenFin Time Example
 
-OpenFin allows native desktop notifications, the system-level windows which briefly appear as alerts at the bottom right of the screen, to be created and interacted with. 
+A simple time example application. The purpose of this repository is to approve getting time from time service application.
 
 To run this example you will need [Node.js](https://nodejs.org/en/download). Clone the repository, run:
 
